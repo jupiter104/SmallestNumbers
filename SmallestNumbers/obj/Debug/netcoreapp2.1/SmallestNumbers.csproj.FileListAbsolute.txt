@@ -1,0 +1,11 @@
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\bin\Debug\netcoreapp2.1\SmallestNumbers.deps.json
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\bin\Debug\netcoreapp2.1\SmallestNumbers.runtimeconfig.json
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\bin\Debug\netcoreapp2.1\SmallestNumbers.runtimeconfig.dev.json
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\bin\Debug\netcoreapp2.1\SmallestNumbers.dll
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\bin\Debug\netcoreapp2.1\SmallestNumbers.pdb
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\obj\Debug\netcoreapp2.1\SmallestNumbers.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\obj\Debug\netcoreapp2.1\SmallestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\obj\Debug\netcoreapp2.1\SmallestNumbers.AssemblyInfoInputs.cache
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\obj\Debug\netcoreapp2.1\SmallestNumbers.AssemblyInfo.cs
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\obj\Debug\netcoreapp2.1\SmallestNumbers.dll
+C:\Users\Debashis\source\repos\SmallestNumbers\SmallestNumbers\obj\Debug\netcoreapp2.1\SmallestNumbers.pdb
